@@ -1,11 +1,3 @@
 bot_token: 1270066629:AAGEVnYGEvAWH1FHhegrzwopJPj7qNgs6zM
 telegraph_token: 2b3694dd360c1d8e68f1b1a90c962ee7cc68f675a28ebd5460c494c53f2a
 update_interval: 5
-mysql:
-  host: 127.0.0.1
-  port: 3306
-  user: user
-  password: pwd
-  database: flowerss
-sqlite:
-  path: ./data.db
