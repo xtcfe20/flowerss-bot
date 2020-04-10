@@ -1,3 +1,5 @@
 bot_token: 1270066629:AAGEVnYGEvAWH1FHhegrzwopJPj7qNgs6zM
 telegraph_token: 2b3694dd360c1d8e68f1b1a90c962ee7cc68f675a28ebd5460c494c53f2a
 update_interval: 5
+sqlite:
+  path: ./data.db
