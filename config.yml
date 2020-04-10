@@ -1,4 +1,7 @@
-bot_token: 1270066629:AAGEVnYGEvAWH1FHhegrzwopJPj7qNgs6zM
-telegraph_token: 2b3694dd360c1d8e68f1b1a90c962ee7cc68f675a28ebd5460c494c53f2a
+bot_token: 846014463:AAG4mzkaP-n1cF_mpHcquN92c6NzaOKGiGk
+telegraph_token: 
+ - 2b3694dd360c1d8e68f1b1a90c962ee7cc68f675a28ebd5460c494c53f2a
+ - 40ca5159502667a60edbf5b37423a4e2130edc31b8f6cbfd3dd2338fdc34
+ - c417ded4e8ae5b20b653c9483f38055855b6540d43bd26ffb1734fddad32
 update_interval: 5
 
