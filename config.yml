@@ -3,4 +3,11 @@ telegraph_token:
  - 094bb86c32334ab46c90f40b1af08fd0dc6cd7ce0e96cd88390fb5c3367f
  - 2579dece0b46138755e5ad729fde4229a055a29777138dbce0dd67ddff97
 update_interval: 5
-
+mysql:
+  host: 127.0.0.1
+  port: 3306
+  user: user
+  password: pwd
+  database: flowerss
+sqlite:
+  path: ./data.db
