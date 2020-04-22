@@ -5,3 +5,5 @@ telegraph_token:
  - 09df4cf06385537f3d39bcb49e93a5bb813d7e86b112aeb33b90f50ec000
 update_interval: 5
 
+sqlite:
+  path: ./data.db
