@@ -1,5 +1,5 @@
-bot_token: 1109729985:AAGxkQZThzv3xj0FX_vtQAw0nrT4d1V4uk4b1
-telegraph_token: f361dd3c8bd043ebd54b7ef41de0a827aed5214589fc7f01db1197155b06bt1
+bot_token: 1109729985:AAGxkQZThzv3xj0FX_vtQAw0nrT4d1V4uk4
+telegraph_token: f361dd3c8bd043ebd54b7ef41de0a827aed5214589fc7f01db1197155b06
 update_interval: 5
 sqlite:
   path: ./data.db
